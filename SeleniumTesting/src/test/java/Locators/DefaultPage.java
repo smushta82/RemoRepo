@@ -30,5 +30,11 @@ public class DefaultPage {
 	public void clickOnAllCookieBtn() {
 		AllCookieBtn.click();
 	}
+	public void clickOnAllCookieBtn1() {
+		AllCookieBtn.click();
+	}
+	public void clickOnAllCookieBtn2() {
+		AllCookieBtn.click();
+	}
 
 }
