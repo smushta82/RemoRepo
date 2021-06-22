@@ -33,7 +33,7 @@ public class DefaultPage {
 	public void clickOnAllCookieBtn1() {
 		AllCookieBtn.click();
 	}
-	public void clickOnAllCookieBtn2() {
+	public void clickOnAllCookieBtn4() {
 		AllCookieBtn.click();
 	}
 
